@@ -1,0 +1,82 @@
+{
+  "Alavés": {
+    "full_name": "Deportivo Alavés",
+    "abbr": "ALA"
+  },
+  "Athletic Bilbao": {
+    "full_name": "Athletic Bilbao",
+    "abbr": "ATH"
+  },
+  "Atlético Madrid": {
+    "full_name": "Atlético Madrid",
+    "abbr": "ATM"
+  },
+  "Barcelona": {
+    "full_name": "FC Barcelona",
+    "abbr": "BAR"
+  },
+  "Celta Vigo": {
+    "full_name": "Celta de Vigo",
+    "abbr": "CEL"
+  },
+  "Deportivo La Coruña": {
+    "full_name": "Deportivo de La Coruña",
+    "abbr": "DEP"
+  },
+  "Eibar": {
+    "full_name": "SD Eibar",
+    "abbr": "EIB"
+  },
+  "Espanyol": {
+    "full_name": "RCD Espanyol",
+    "abbr": "ESP"
+  },
+  "Getafe": {
+    "full_name": "Getafe CF",
+    "abbr": "GET"
+  },
+  "Girona": {
+    "full_name": "Girona FC",
+    "abbr": "GIR"
+  },
+  "Las Palmas": {
+    "full_name": "UD Las Palmas",
+    "abbr": "LPA"
+  },
+  "Leganés": {
+    "full_name": "CD Leganés",
+    "abbr": "LEG"
+  },
+  "Levante": {
+    "full_name": "Levante UD",
+    "abbr": "LEV"
+  },
+  "Málaga": {
+    "full_name": "Málaga CF",
+    "abbr": "MLG"
+  },
+  "Real Betis": {
+    "full_name": "Real Betis",
+    "abbr": "BET"
+  },
+  "Real Madrid": {
+    "full_name": "Real Madrid C.F.",
+    "abbr": "RMA"
+  },
+  "Real Sociedad": {
+    "full_name": "Real Sociedad",
+    "abbr": "RSO"
+  },
+  "Sevilla": {
+    "full_name": "Sevilla FC",
+    "abbr": "SEV"
+  },
+  "Valencia": {
+    "full_name": "Valencia CF",
+    "abbr": "VAL"
+  },
+  "Villarreal": {
+    "full_name": "Villarreal CF",
+    "abbr": "VIL"
+  }
+}
